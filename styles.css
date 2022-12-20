@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+*{
+    font-family: cursive;
+}
+table {
+    border-collapse: collapse;
+    width: 20vw;
+    font-size: 20px;
+}
+tr, th, td {
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+}
+th {
+    background-color: aqua;
+}
